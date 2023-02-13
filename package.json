@@ -31,7 +31,7 @@
   "dependencies": {
     "@actions/core": "1.9.1",
     "cross-fetch": "3.1.5",
-    "is-port-reachable": "3.0.0",
+    "is-port-reachable": "4.0.0",
     "periodic-execution": "0.1.0"
   },
   "devDependencies": {
